@@ -1,0 +1,22 @@
+{
+  "name": "gulp-cache-file",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devWayne/gulp-cache-file.git"
+  },
+  "author": "Jarvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/gulp-cache-file/issues"
+  },
+  "homepage": "https://github.com/devWayne/gulp-cache-file#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
